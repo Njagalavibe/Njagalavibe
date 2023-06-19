@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 Njagalavibe is a ✨ _special kinda VIBE_ ✨<br> 
-🔭I'm currently learning & unlearning<br>👯I'm looking to collaborate on anything Automation<br>I',🤔 looking for help with clean code<br> 😄I'm currently learning JavaScript<br>💬Ask me anything about Automation<br>⚡ A smile isn't that costly, anyone can afford one!<br>
+🔭I'm currently learning & unlearning<br>👯I'm looking to collaborate on anything Automation<br>🤔 looking for help with clean code<br> 😄I'm currently learning JavaScript<br>💬Ask me anything about Automation<br>⚡ A smile isn't that costly, anyone can afford one!<br>
 
 
 ## 🌐 Socials:
