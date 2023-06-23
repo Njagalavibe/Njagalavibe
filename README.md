@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                                                  # 💫 About Me:
 HELLO 👋 Am Patrick......<br><br>🔭 I'm currently learning and unlearning<br>🌱 I'm currently learning JavaScript<br>🤝 I'm looking for help with clean code<br>⚡Fun fact : A smile is  isn't that costly, anyone can afford one!<br>Njagalavibe is a ✨ special kinda VIBE ✨<br><br>📫 Reach me at  patricolumu@gmail.com<br>👨‍🏫 All my projects are at    https://github.com/Njagalavibe<br>✍ I write articles on   https://medium.com/@patricolumu<br><br>
 
 
